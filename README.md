@@ -45,3 +45,12 @@ The goal is to build a strong foundation in data analysis using tools like **Pyt
 │ └── summary_notes.md
 └── README.md
 
+##  Next Steps
+
+- Complete Power BI dashboard and case study  
+- Upload a mini capstone project using real-world dataset  
+- Explore integration between SQL → Python → Power BI
+
+  ## 🙏 Acknowledgments
+
+Special thanks to **Prateek Sir** for his constant mentorship, and to my peers who made this learning journey collaborative and fun!
