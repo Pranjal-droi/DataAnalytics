@@ -44,7 +44,10 @@ The goal is to build a strong foundation in data analysis using tools like **Pyt
 ├── 📂 Notes/
 │ └── summary_notes.md
 └── README.md
+##  Highlights
 
+-  Applied problem-solving through weekly assignments  
+-  GitHub used as a learning diary and portfolio
 ##  Next Steps
 
 - Complete Power BI dashboard and case study  
