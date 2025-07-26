@@ -1,13 +1,5 @@
 <h1 align="center">Data Analytics Summer Training – IITM</h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-In%20Progress-blue" alt="Status">
-  <img src="https://img.shields.io/github/languages/top/your-username/your-repo-name" alt="Top Language">
-  <img src="https://img.shields.io/github/last-commit/your-username/your-repo-name" alt="Last Commit">
-</p>
-
----
-
 ##  About the Project
 
 This repository contains all the code, projects, and notes from my **Data Analytics Summer Training** at *Institute of Innovation in Technology and Management (IITM)*.
