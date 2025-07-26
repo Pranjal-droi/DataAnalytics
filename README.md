@@ -1,4 +1,4 @@
-<h1 align="center">📊 Data Analytics Summer Training – IITM</h1>
+<h1 align="center">Data Analytics Summer Training – IITM</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-In%20Progress-blue" alt="Status">
