@@ -1,0 +1,684 @@
+Name,Age,Gender,Location,Category,Faced Discrimination,Reservation,Position,Selection,promotion
+Pranjal Tiwari,17,Female,West Delhi,General,Yes,0.0,Undergraduate,Merit-based,Not sure
+Vansh,17,Male,My house,Prefer not to say,Not Sure,0.0,Other,Mixed,Not Sure
+Vansh,55,Male,Delhi,General,Yes,0.0,Undergraduate,Merit-based,Yes
+Harpreet Singh,43,Male,Delhi,General,No,0.0,Employee,Mixed,Yes
+Aditi Das,21,Female,New Delhi,SC,No,15.0,Undergraduate,Merit-based,Yes
+Mayank Tripathi,21,Male,"Patna, Bihar",General,Not Sure,0.0,Undergraduate,Reservation,No
+indraja,21,Female,delhi,General,No,0.0,Undergraduate,Mixed,Yes
+Shivansh Tripathi,17,Male,New Delhi,General,Yes,0.0,10th / 12th,Mixed,No
+Tanveer Kaur,21,Female,Delhi,Prefer not to say,Yes,0.0,Employee,Mixed,Not sure
+Anushka Mandolia,21,Female,New Delhi,General,No,0.0,Undergraduate,Mixed,No
+Vansh,21,Male,Haryana,General,No,0.0,Undergraduate,Merit-based,No
+Juganu Mishra,30,Female,West champaran (Bihar),General,No,0.0,Postgraduate,Merit-based,No
+Pratyush,21,Male,Bihar,Prefer not to say,Not Sure,0.0,Undergraduate,Mixed,Not Sure
+Kamamshi Malik,21,Female,Haryana,General,No,0.0,Undergraduate,Merit-based,Not Sure
+Vansh Sharma,21,Male,Delhi,General,No,0.0,Undergraduate,Mixed,Not Sure
+Chitrakshi,21,Female,Delhi,General,No,0.0,Undergraduate,Mixed,Not Sure
+Pawan Kumar Gupta,21,Male,Delhi,OBC,No,27.0,Undergraduate,Reservation,No
+Arshleen Kaur,21,Female,New Delhi,General,No,0.0,Undergraduate,Mixed,Yes
+Gargi Sharma,21,Female,Delhi,General,No,0.0,Undergraduate,Merit-based,No
+Shahil Sharma,21,Male,"Chapra, Bihar ",General,No,0.0,Undergraduate,Reservation,No
+Lavisha,21,Female,Delhi,General,No,0.0,Undergraduate,Reservation,Yes
+Srishti Chauhan,21,Female,New Delhi,General,No,0.0,Undergraduate,Reservation,No
+Mridul Kumar,21,Male,"Muzaffarpur, Bihar",SC,No,15.0,Undergraduate,Merit-based,Yes
+Lakshman Kumar,21,Male,"Mau, Uttar Pradesh",ST,No,7.5,Undergraduate,Merit-based,Yes
+Amrit Anshu Yadav,21,Male,"Gorakhpur, Uttar Pradesh",OBC,No,27.0,10th / 12th,Mixed,Yes
+manav,21,Male,ludhiana,General,No,0.0,Undergraduate,Mixed,Not Sure
+Sakshi Sharma,21,Female,Delhi,General,No,0.0,Undergraduate,Reservation,Yes
+Abhay kumar,21,Male,Delhi,OBC,No,27.0,Undergraduate,Mixed,Yes
+Manpinder Kaur,43,Female,New Delhi,General,No,0.0,Other,Merit-based,Yes
+Anshika,21,Female,Delhi,General,No,0.0,Employee,Mixed,Not Sure
+Swastika Nath,21,Female,Uttar pradesh,SC,No,15.0,Undergraduate,Merit-based,Yes
+Priyanka rawat,21,Female,Delhi,General,No,0.0,Undergraduate,Mixed,Yes
+Priyanshu kumar,17,Male,Bihar,OBC,No,27.0,Undergraduate,Reservation,Yes
+Hardik,17,Male,Rohini 17,General,No,0.0,10th / 12th,Mixed,Yes
+Harsh,17,Male,Rohini 15,General,No,0.0,Below 10th,Reservation,Yes
+Anshu,21,Male,Rana park,General,No,0.0,10th / 12th,Reservation,Yes
+Yuvakshi,21,Female,Delhi,General,No,0.0,Undergraduate,Mixed,No
+Raj,17,Male,Rohini 16,General,No,0.0,10th / 12th,Merit-based,Yes
+Rishi,30,Male,Libaspur,General,Yes,0.0,Employee,Mixed,No
+Lucky,30,Male,Rohini 18,General,Yes,0.0,Other,Mixed,Yes
+Avii,17,Male,Rohini 15,General,Yes,0.0,10th / 12th,Reservation,No
+Reena,43,Female,Libaspur,General,No,0.0,Other,Reservation,Yes
+Nitin,30,Male,Rohini 4,ST,Yes,7.5,10th / 12th,Merit-based,Yes
+Akki,17,Male,Rana park,General,Yes,0.0,Postgraduate,Mixed,No
+Nisha,21,Female,Delhi,General,No,0.0,Undergraduate,Mixed,No
+Price,17,Male,Rohini 15,OBC,Not Sure,27.0,Below 10th,Mixed,Yes
+Ankita,21,Female,Delhi,General,No,0.0,Undergraduate,Merit-based,Not Sure
+Vivek,43,Male,Rohini 15,General,Not Sure,0.0,Postgraduate,Reservation,Not Sure
+Jatin,55,Male,Rohini 4,Prefer not to say,Not Sure,0.0,Employee,Reservation,Yes
+Ridhi Dhamija,21,Female,Gurugram,General,Not Sure,0.0,Undergraduate,Reservation,No
+Anushka manchanda,21,Female,New delhi,General,Not Sure,0.0,Postgraduate,Mixed,No
+Abhiyant singh,21,Male,Delhi,General,No,0.0,Undergraduate,Mixed,Yes
+Arshita,21,Female,Delhi,General,No,0.0,Undergraduate,Reservation,Not Sure
+R,21,Male,India,General,No,0.0,Undergraduate,Mixed,No
+Mhk,17,Female,Haryana,General,No,0.0,Undergraduate,Mixed,Not Sure
+Hritvi,21,Female,Delhi,General,Yes,0.0,Undergraduate,Reservation,No
+Hitakshi,21,Female,Rohini,General,No,0.0,Undergraduate,Merit-based,Yes
+Diya Joshi,21,Female,Mumbai,General,Yes,0.0,Postgraduate,Mixed,No
+Digvijay Tiwari,55,Male,Delhi,General,Not Sure,0.0,Employee,Mixed,No
+Riya Narang,21,Female,Gurgaon,General,No,0.0,Undergraduate,Merit-based,No
+Vaishnavi,21,Female,Indore,General,No,0.0,Undergraduate,Merit-based,No
+Ranju Tiwari,43,Female,Delhi,General,Yes,0.0,Postgraduate,Reservation,No
+Armandeep singh,21,Male,Pehowa,OBC,No,27.0,Undergraduate,Merit-based,Yes
+Shreya mantri,21,Female,Jaipur,General,No,0.0,Undergraduate,Mixed,No
+Pranav,30,Male,Delhi,General,No,0.0,Employee,Mixed,Not Sure
+Astitva Bisht,17,Male,delhi,General,No,0.0,Undergraduate,Merit-based,No
+Pulkeet kumar mishra,21,Male,Bihar,General,Yes,0.0,Undergraduate,Mixed,No
+Prince mittal,21,Male,DELHI,General,Not Sure,0.0,Undergraduate,Mixed,Yes
+Aarosh Shams,21,Female,Delhi,General,No,0.0,Undergraduate,Merit-based,No
+Nandani kumari Gupta,17,Female,Chhapra,OBC,No,27.0,Undergraduate,Merit-based,No
+Nishita Pahuja,21,Female,Delhi,General,No,0.0,Undergraduate,Reservation,Not Sure
+Nancy,21,Female,Delhi,General,No,0.0,Undergraduate,Merit-based,Not Sure
+Plaksha Chaudhary,17,Female,"Mumbai, India",General,No,0.0,Undergraduate,Merit-based,Yes
+Mohit Bhutani,43,Male,New Delhi,General,No,0.0,Other,Reservation,No
+Pooja Ahuja,21,Female,Uttar Pradesh,General,No,0.0,Undergraduate,Reservation,No
+Deep Sharma,43,Female,Noida,General,No,0.0,Employee,Reservation,Not Sure
+Pankaj Bhalla,43,Male,Delhi,General,No,0.0,Other,Reservation,No
+Prabhjot Singh Bhatia,43,Male,Punjab,General,Yes,0.0,Employee,Mixed,Not Sure
+AANCHAL LOVE,55,Female,Ghaziabad,General,No,0.0,Postgraduate,Reservation,No
+Aneel Bhandari,55,Male,Delhi,General,No,0.0,Other,Mixed,Not Sure
+Harmeet Singh Badwal,43,Male,Patiala,General,No,0.0,Postgraduate,Merit-based,Not Sure
+Rajesh Dhawan,55,Male,India (Delhi),General,Not Sure,0.0,Employee,Mixed,No
+Deeksha,21,Female,"Ludhiana, Punjab ",General,Yes,0.0,Undergraduate,Reservation,Not Sure
+RAVINDER KATOCH,43,Male,Delhi,General,No,0.0,Undergraduate,Merit-based,No
+Maninder Singh,55,Male,New Delhi,Prefer not to say,Not Sure,0.0,Other,Merit-based,Not Sure
+Rajeev,55,Male,Noida,General,No,0.0,Other,Reservation,No
+Rohit,55,Male,India,General,No,0.0,Postgraduate,Reservation,Not Sure
+Rohit Mehra,55,Male,Delhi,General,No,0.0,Other,Reservation,No
+Rajesh,55,Male,Delhi,General,Not Sure,0.0,Other,Mixed,No
+Anil Talwsr,55,Male,Faridabad,General,No,0.0,Other,Merit-based,No
+Sparsh Sharma,21,Male,Delhi,General,No,0.0,Undergraduate,Mixed,No
+Laksh Mehra,21,Male,Delhi,General,Not Sure,0.0,Undergraduate,Mixed,Not Sure
+VINEET PANDEY,21,Male,INDIA,General,Yes,0.0,Undergraduate,Reservation,Yes
+Gurinder Singh,21,Male,Delhi,General,No,0.0,Undergraduate,Merit-based,Not Sure
+Rishu kumar,21,Male,Delhi,General,No,0.0,Undergraduate,Mixed,Yes
+Anvesha Gupta,21,Female,New Delhi,General,No,0.0,Undergraduate,Mixed,Not Sure
+Sarthak,21,Male,delhi,General,No,0.0,Undergraduate,Merit-based,Not Sure
+Jay,21,Male,New delhi,General,No,0.0,Employee,Merit-based,No
+Shubham Karpuran,21,Male,New Delhi,General,No,0.0,Undergraduate,Merit-based,No
+Puneet Kaur,21,Female,"India, New Delhi ",General,No,0.0,Undergraduate,Reservation,Not Sure
+Achal Verma,21,Male,Delhi,General,Not Sure,0.0,Undergraduate,Merit-based,Not Sure
+Chhavi Bhaisora,21,Female,Delhi,General,No,0.0,Undergraduate,Merit-based,No
+Pratham sharma,21,Male,Delhi,General,No,0.0,Undergraduate,Merit-based,No
+Heena,21,Female,Delhi,General,No,0.0,Undergraduate,Mixed,Yes
+Nancy,21,Female,New Delhi,General,No,0.0,Undergraduate,Merit-based,Not Sure
+khushi,21,Female,Delhi,General,No,0.0,Employee,Merit-based,Not Sure
+Himanshu Patel,21,Male,Delhi,OBC,No,27.0,Undergraduate,Mixed,Yes
+Sunny Prajapati,21,Male,"IITM, Janakpuri",OBC,No,27.0,Undergraduate,Mixed,No
+Manpreet Singh,21,Male,ਦਿੱਲੀ,General,Yes,0.0,Postgraduate,Mixed,No
+Udit Garg,21,Male,Ghaziabad,General,No,0.0,Employee,Merit-based,Not Sure
+Manav,21,Male,New Delhi,General,No,0.0,Employee,Mixed,No
+Yash Fulara,21,Male,Delhi,General,Yes,0.0,Undergraduate,Merit-based,No
+anushka jaishwal,21,Female,Delhi,General,Yes,0.0,Undergraduate,Merit-based,Not Sure
+Deepanshi vats,21,Female,Palam village,General,No,0.0,Undergraduate,Merit-based,No
+Anshika,21,Female,Delhi ncr,General,No,0.0,Undergraduate,Mixed,Yes
+Aryan Gambhir,21,Male,"New Delhi,  India",General,No,0.0,Undergraduate,Merit-based,Not Sure
+Garv Batra,21,Male,Delhi,General,No,0.0,Undergraduate,Merit-based,Yes
+Deepanshi Pandey,21,Female,New Delhi,General,No,0.0,Undergraduate,Merit-based,Not Sure
+Vasudev vk,21,Male,Kerala,General,No,0.0,Undergraduate,Reservation,Not Sure
+Ansh,21,Male,Delhi,General,No,0.0,Undergraduate,Mixed,Not Sure
+Harjinder singh,43,Male,Punjab,General,Not Sure,0.0,Other,Reservation,Not Sure
+Teapot,30,Prefer not to say,Kashmir,Prefer not to say,Not Sure,0.0,Other,Mixed,Not Sure
+Riya Verma,21,Female,Delhi,General,No,0.0,Undergraduate,Reservation,Yes
+Tanisha,21,Female,Delhi,General,No,0.0,Postgraduate,Reservation,No
+Abhishek Johri,55,Male,"Delhi, India",General,No,0.0,Postgraduate,Merit-based,Not Sure
+Tushar,21,Male,New delhi,General,No,0.0,Undergraduate,Mixed,Yes
+Nikunj,21,Male,Haryana,General,Yes,0.0,Undergraduate,Merit-based,Not Sure
+Mehardeep Singh,21,Male,Delhi,OBC,No,27.0,Undergraduate,Merit-based,Yes
+Kavya,21,Female,Uttrakhand,General,Yes,0.0,Undergraduate,Mixed,Yes
+Disha gulati,21,Female,"Tilak nagar, delhi",General,No,0.0,Undergraduate,Mixed,No
+Tanya Kapoor,21,Female,Delhi,General,Yes,0.0,Undergraduate,Merit-based,Yes
+Kanishk pareek,21,Male,Delhi,General,No,0.0,Undergraduate,Reservation,Yes
+Bhanu,21,Female,"India,new delhi",SC,No,15.0,Undergraduate,Reservation,Yes
+Giridhar Malagi,21,Male,"Vijayapura,  Karnataka ",General,Yes,0.0,Other,Mixed,No
+Geetali Banerji,55,Female,Delhi,General,No,0.0,Employee,Mixed,No
+Yash Singh,21,Male,Delhi,General,No,0.0,Undergraduate,Reservation,No
+Priyansh Kalra,21,Male,Delhi,General,No,0.0,Undergraduate,Reservation,No
+Ridhima Khurana,30,Female,Delhi,General,No,0.0,Employee,Mixed,Yes
+Jitender Tehlan,30,Male,Delhi,General,No,0.0,Employee,Reservation,Not Sure
+NAITIK NEGi,21,Male,South delhi,General,No,0.0,Undergraduate,Reservation,not Sure
+Dipti Chawla,43,Female,Delhi,General,Not Sure,0.0,Employee,Reservation,not Sure
+Jai Singh,17,Male,New Delhi,SC,No,15.0,10th / 12th,Reservation,Not Sure
+Vishal Bhatiya,21,Male,Delhi,SC,No,15.0,Postgraduate,Mixed,Yes
+Bhavika,21,Female,Delhi,General,No,0.0,Undergraduate,Mixed,Not Sure
+Chaitnya pal,21,Male,delhi,OBC,No,27.0,10th / 12th,Merit-based,Not Sure
+Rajat,21,Male,New Delhi,General,No,0.0,Undergraduate,Reservation,No
+Rakhi Singh,43,Female,Delhi,General,No,0.0,10th / 12th,Reservation,Yes
+Ujjwal pal,21,Male,Delhi,General,No,0.0,Undergraduate,Merit-based,Yes
+Sakshi Singh,21,Female,Delhi,General,No,0.0,Undergraduate,Mixed,No
+Kunal sharma,21,Male,New delhi,General,No,0.0,Postgraduate,Reservation,Yes
+Yashika,17,Female,Delhi,General,No,0.0,10th / 12th,Merit-based,Yes
+Chandani Arora,21,Female,Delhi,General,No,0.0,Undergraduate,Merit-based,Yes
+Saloni,21,Female,Delhi,General,Not Sure,0.0,Undergraduate,Merit-based,Yes
+Taniya Dabas,21,Female,New Delhi,General,No,0.0,Employee,Merit-based,Yes
+Gaurvit,21,Male,New Delhi,General,No,0.0,Employee,Mixed,To some extent
+Payal,21,Female,Delhi,General,No,0.0,Undergraduate,Merit-based,No
+Reyansh,17,Male,Maheshwari,Prefer not to say,No,0.0,Below 10th,Merit-based,To some extent
+Prapti Bhatia,21,Female,Delhi,General,No,0.0,Undergraduate,Mixed,To some extent
+aapko kya?,21,Prefer not to say,apne desh se,Prefer not to say,Not Sure,0.0,Other,Reservation,To some extent
+harshita chawla,21,Female,del,General,No,0.0,Undergraduate,Merit-based,Yes
+Nav,21,Male,Delhi (Burari),General,No,0.0,Undergraduate,Merit-based,No
+Arpit Anand,21,Male,Bihar,General,No,0.0,Undergraduate,Mixed,Yes
+Shreya,21,Female,Delhi,General,No,0.0,Undergraduate,Reservation,No
+Mingma Bhutia,30,Male,Sikkim,General,No,0.0,Employee,Merit-based,To some extent
+Richa,21,Female,New Delhi,General,Yes,0.0,Undergraduate,Merit-based,To some extent
+Mayank,21,Male,New delhi,OBC,No,27.0,Undergraduate,Merit-based,To some extent
+Mayank,21,Male,New delhi,OBC,No,27.0,Undergraduate,Mixed,To some extent
+Kritikapal,17,Female,Pehowa,Prefer not to say,Not Sure,0.0,10th / 12th,Merit-based,To some extent
+Daman Bhatia,43,Male,Dubai,General,No,0.0,Employee,Mixed,No
+Alex,43,Male,Africa,General,Yes,0.0,Employee,Mixed,Yes
+Riya Sharma,17,Female,Gurgaon,SC,Yes,15.0,10th / 12th,Reservation,Yes
+Ishika Verma,30,Female,Rajashthan,OBC,Yes,27.0,Postgraduate,Merit-based,Yes
+Priyanka Mishra,21,Female,Lucknow,General,No,0.0,Postgraduate,Merit-based,Yes
+Rahul Mishra,55,Female,Bangalore,General,No,0.0,Undergraduate,Reservation,Not Sure
+Rahul Shah,43,Female,Mumbai,OBC,Not Sure,27.0,Postgraduate,Reservation,Not Sure
+Ritu Shah,21,Other,Hyderabad,OBC,No,27.0,Postgraduate,Mixed,Yes
+Anjali Mehta,55,Male,Mumbai,General,No,0.0,Undergraduate,Mixed,Yes
+Karan Yadav,55,Other,Bangalore,OBC,No,27.0,Undergraduate,Reservation,Yes
+Ravi Singh,17,Male,Ahmedabad,General,No,0.0,Employee,Merit-based,No
+Sangeeta Das,30,Other,Kolkata,ST,Not Sure,7.5,Postgraduate,Reservation,No
+Aman Patel,30,Male,Bangalore,General,Yes,0.0,Postgraduate,Mixed,Not Sure
+Neha Singh,55,Other,Chennai,OBC,Not Sure,27.0,Undergraduate,Mixed,Yes
+Ajay Kumari,21,Other,Hyderabad,SC,Yes,15.0,Employee,Merit-based,Not Sure
+Rahul Verma,30,Female,Ahmedabad,General,Yes,0.0,Postgraduate,Merit-based,Yes
+Seema Singh,43,Male,Bangalore,General,Yes,0.0,Employee,Mixed,No
+Karan Das,21,Female,Jaipur,General,Yes,0.0,Undergraduate,Merit-based,Not Sure
+Seema Joshi,17,Other,Hyderabad,General,Not Sure,0.0,Undergraduate,Mixed,Not Sure
+Aakash Yadav,30,Female,Kolkata,SC,Not Sure,15.0,Postgraduate,Mixed,No
+Aakash Rao,43,Other,Chennai,General,Not Sure,0.0,Undergraduate,Reservation,Not Sure
+Neelam Tiwari,43,Other,Chennai,General,No,0.0,Undergraduate,Mixed,Yes
+Rashmi Reddy,55,Female,Chennai,General,Yes,0.0,Undergraduate,Merit-based,Yes
+Ajay Kumar,21,Other,Jaipur,General,Yes,0.0,Postgraduate,Reservation,Yes
+Manish Mishra,55,Male,Chennai,OBC,Yes,27.0,Undergraduate,Reservation,Yes
+Priya Das,21,Male,Kolkata,SC,Not Sure,15.0,Employee,Reservation,No
+Karan Tiwari,21,Other,Chennai,OBC,Yes,27.0,Undergraduate,Merit-based,Not Sure
+Rahul Nair,43,Other,Chennai,SC,Yes,15.0,Postgraduate,Merit-based,Not Sure
+Suresh Choudhary,30,Male,Pune,General,Not Sure,0.0,Postgraduate,Mixed,Not Sure
+Vikram Shah,55,Female,Jaipur,ST,Not Sure,7.5,Employee,Mixed,Not Sure
+Ajay Kumari,17,Female,Pune,OBC,Not Sure,27.0,Undergraduate,Reservation,Yes
+Vikram Kumari,21,Other,Kolkata,OBC,Not Sure,27.0,Undergraduate,Mixed,Yes
+Rahul Bose,43,Male,Kolkata,OBC,No,27.0,Postgraduate,Merit-based,Yes
+Vikram Gupta,55,Female,Mumbai,General,Not Sure,0.0,Undergraduate,Mixed,No
+Ritu Mehta,17,Other,Jaipur,SC,No,15.0,Employee,Merit-based,No
+Vikram Shah,43,Female,Hyderabad,OBC,Not Sure,27.0,Undergraduate,Mixed,Not Sure
+Anjali Sharma,43,Other,Hyderabad,EWS,Yes,10.0,Undergraduate,Reservation,No
+Neelam Kapoor,55,Other,Jaipur,General,Yes,0.0,Undergraduate,Mixed,No
+Aman Kapoor,30,Female,Lucknow,General,Yes,0.0,Employee,Reservation,No
+Karan Bose,21,Female,Mumbai,OBC,Yes,27.0,Postgraduate,Reservation,No
+Aman Nair,21,Male,Pune,OBC,Yes,27.0,Undergraduate,Mixed,No
+Neelam Mehta,21,Female,Mumbai,OBC,Yes,27.0,Postgraduate,Merit-based,Yes
+Vikram Gupta,30,Other,Lucknow,OBC,Not Sure,27.0,Employee,Mixed,Not Sure
+Suresh Yadav,30,Other,Ahmedabad,OBC,Not Sure,27.0,Postgraduate,Mixed,Not Sure
+Priya Kumar,43,Male,Kolkata,ST,No,7.5,Employee,Reservation,Yes
+Neelam Nair,55,Other,Kolkata,OBC,Not Sure,27.0,Employee,Reservation,Not Sure
+Sangeeta Choudhary,43,Other,Kolkata,EWS,Yes,10.0,Undergraduate,Merit-based,Yes
+Vikram Gupta,21,Female,Chennai,OBC,Yes,27.0,Employee,Mixed,Yes
+Seema Gupta,55,Female,Kolkata,General,Yes,0.0,Postgraduate,Mixed,No
+Ajay Mishra,21,Other,Pune,General,Not Sure,0.0,Employee,Mixed,No
+Sangeeta Choudhary,17,Male,Pune,General,No,0.0,Postgraduate,Merit-based,Not Sure
+Sunil Choudhary,17,Other,Ahmedabad,General,No,0.0,Employee,Reservation,Yes
+Sangeeta Choudhary,43,Other,Chennai,General,Not Sure,0.0,Postgraduate,Reservation,Yes
+Karan Kumari,21,Other,Pune,General,No,0.0,Undergraduate,Reservation,No
+Neelam Kumari,21,Female,Kolkata,General,Not Sure,0.0,Employee,Mixed,No
+Rahul Reddy,30,Female,Kolkata,OBC,Not Sure,27.0,Postgraduate,Mixed,Not Sure
+Neha Bose,43,Other,Ahmedabad,OBC,Yes,27.0,Undergraduate,Reservation,No
+Rashmi Patel,55,Other,Kolkata,OBC,No,27.0,Undergraduate,Mixed,Yes
+Priyanka Sharma,30,Other,Hyderabad,ST,No,7.5,Postgraduate,Mixed,Yes
+Manish Kumar,55,Female,Pune,General,Not Sure,0.0,Undergraduate,Reservation,Not Sure
+Karan Tiwari,21,Male,Bangalore,SC,No,15.0,Undergraduate,Merit-based,No
+Rahul Kumar,17,Male,Jaipur,EWS,Yes,10.0,Postgraduate,Mixed,No
+Suresh Reddy,55,Male,Jaipur,General,No,0.0,Postgraduate,Mixed,No
+Aakash Kapoor,17,Male,Kolkata,OBC,Not Sure,27.0,Undergraduate,Merit-based,No
+Ritu Choudhary,21,Male,Mumbai,SC,Yes,15.0,Postgraduate,Merit-based,Not Sure
+Priyanka Bose,55,Female,Mumbai,EWS,Not Sure,10.0,Postgraduate,Reservation,Not Sure
+Rahul Das,30,Female,Pune,General,Yes,0.0,Undergraduate,Merit-based,No
+Aakash Das,55,Male,Pune,OBC,No,27.0,Postgraduate,Mixed,Yes
+Priyanka Yadav,21,Female,Mumbai,General,No,0.0,Undergraduate,Mixed,Yes
+Manish Yadav,55,Male,Bangalore,OBC,Not Sure,27.0,Postgraduate,Merit-based,No
+Seema Kapoor,17,Other,Pune,General,Not Sure,0.0,Employee,Mixed,Not Sure
+Divya Kapoor,55,Male,Delhi,EWS,Yes,10.0,Employee,Mixed,Not Sure
+Manish Mishra,43,Female,Chennai,General,Yes,0.0,Employee,Merit-based,No
+Priyanka Sharma,43,Male,Jaipur,General,Yes,0.0,Postgraduate,Merit-based,No
+Sunil Reddy,55,Other,Lucknow,OBC,Yes,27.0,Undergraduate,Reservation,Not Sure
+Divya Kapoor,21,Female,Ahmedabad,OBC,Yes,27.0,Employee,Merit-based,No
+Manish Das,30,Male,Pune,SC,Not Sure,15.0,Undergraduate,Merit-based,Yes
+Neha Verma,21,Female,Ahmedabad,OBC,No,27.0,Postgraduate,Reservation,No
+Suresh Mishra,17,Female,Pune,ST,Not Sure,7.5,Undergraduate,Reservation,No
+Manish Joshi,55,Male,Bangalore,EWS,No,10.0,Employee,Reservation,Not Sure
+Manish Mehta,30,Other,Ahmedabad,General,Yes,0.0,Employee,Reservation,Yes
+Priyanka Joshi,55,Other,Jaipur,OBC,No,27.0,Undergraduate,Mixed,Yes
+Suresh Patel,17,Other,Pune,OBC,No,27.0,Employee,Reservation,Yes
+Aakash Nair,43,Other,Chennai,ST,Not Sure,7.5,Employee,Mixed,No
+Manish Rao,21,Other,Ahmedabad,General,Yes,0.0,Employee,Merit-based,Yes
+Priyanka Mehta,30,Male,Jaipur,General,No,0.0,Postgraduate,Mixed,Yes
+Seema Sharma,55,Female,Delhi,General,No,0.0,Employee,Reservation,No
+Ravi Bose,21,Other,Hyderabad,OBC,Not Sure,27.0,Undergraduate,Merit-based,Yes
+Seema Choudhary,30,Female,Lucknow,General,Yes,0.0,Undergraduate,Merit-based,Yes
+Ajay Choudhary,30,Female,Delhi,General,Not Sure,0.0,Employee,Reservation,No
+Sunil Reddy,30,Other,Bangalore,General,No,0.0,Postgraduate,Reservation,Not Sure
+Vikram Joshi,55,Female,Kolkata,General,Not Sure,0.0,Postgraduate,Reservation,No
+Priyanka Shah,55,Female,Pune,OBC,Not Sure,27.0,Postgraduate,Mixed,Not Sure
+Neelam Yadav,30,Male,Hyderabad,OBC,Yes,27.0,Postgraduate,Merit-based,Yes
+Anjali Mehta,21,Other,Lucknow,EWS,Yes,10.0,Postgraduate,Mixed,No
+Rashmi Das,17,Female,Bangalore,OBC,Yes,27.0,Employee,Mixed,Yes
+Priya Patel,21,Female,Jaipur,OBC,Not Sure,27.0,Employee,Reservation,No
+Neha Reddy,55,Other,Ahmedabad,General,No,0.0,Undergraduate,Merit-based,Not Sure
+Divya Sharma,21,Other,Hyderabad,EWS,Yes,10.0,Undergraduate,Mixed,Yes
+Karan Gupta,30,Other,Lucknow,General,No,0.0,Employee,Mixed,No
+Suresh Das,55,Female,Pune,SC,No,15.0,Postgraduate,Merit-based,Not Sure
+Ritu Reddy,17,Male,Bangalore,EWS,Not Sure,10.0,Postgraduate,Merit-based,No
+Sangeeta Kumari,17,Male,Kolkata,OBC,No,27.0,Employee,Merit-based,No
+Manish Mehta,55,Female,Lucknow,General,No,0.0,Undergraduate,Reservation,Not Sure
+Aakash Patel,17,Other,Jaipur,ST,Yes,7.5,Undergraduate,Merit-based,No
+Rashmi Rao,43,Other,Ahmedabad,SC,No,15.0,Employee,Merit-based,Not Sure
+Priya Kapoor,17,Other,Mumbai,ST,No,7.5,Postgraduate,Merit-based,Not Sure
+Priya Nair,30,Female,Ahmedabad,ST,No,7.5,Postgraduate,Mixed,Not Sure
+Anjali Kumari,30,Other,Bangalore,OBC,Not Sure,27.0,Employee,Merit-based,No
+Anjali Kapoor,17,Female,Lucknow,ST,Yes,7.5,Employee,Merit-based,Yes
+Priya Joshi,43,Female,Pune,General,No,0.0,Undergraduate,Mixed,Not Sure
+Ravi Das,30,Other,Delhi,General,No,0.0,Employee,Mixed,Not Sure
+Divya Kapoor,21,Female,Hyderabad,OBC,No,27.0,Undergraduate,Mixed,Not Sure
+Anjali Singh,17,Other,Hyderabad,General,No,0.0,Employee,Merit-based,Not Sure
+Vikram Nair,30,Male,Kolkata,ST,Not Sure,7.5,Employee,Mixed,Not Sure
+Karan Reddy,43,Other,Pune,ST,No,7.5,Postgraduate,Merit-based,No
+Aman Yadav,17,Female,Bangalore,General,Not Sure,0.0,Employee,Merit-based,No
+Priya Joshi,43,Male,Ahmedabad,OBC,No,27.0,Undergraduate,Merit-based,No
+Sunil Choudhary,30,Male,Bangalore,SC,No,15.0,Employee,Mixed,No
+Aakash Bose,30,Male,Lucknow,OBC,Yes,27.0,Employee,Merit-based,Not Sure
+Ravi Shah,43,Male,Jaipur,General,Not Sure,0.0,Undergraduate,Merit-based,Not Sure
+Suresh Kapoor,21,Female,Hyderabad,SC,Not Sure,15.0,Undergraduate,Merit-based,No
+Priya Bose,55,Male,Kolkata,General,Not Sure,0.0,Employee,Reservation,No
+Karan Gupta,55,Female,Ahmedabad,General,Yes,0.0,Employee,Mixed,No
+Sunil Das,17,Male,Chennai,General,Not Sure,0.0,Postgraduate,Reservation,Not Sure
+Ritu Yadav,17,Male,Lucknow,General,Not Sure,0.0,Postgraduate,Mixed,No
+Priya Yadav,30,Male,Ahmedabad,General,Yes,0.0,Employee,Reservation,No
+Rahul Sharma,55,Male,Pune,OBC,No,27.0,Undergraduate,Reservation,Not Sure
+Neha Gupta,17,Male,Jaipur,General,Not Sure,0.0,Postgraduate,Merit-based,Not Sure
+Aakash Rao,17,Female,Delhi,General,No,0.0,Undergraduate,Mixed,Not Sure
+Anjali Tiwari,21,Female,Delhi,General,Yes,0.0,Employee,Merit-based,Yes
+Vikram Yadav,17,Other,Hyderabad,OBC,Yes,27.0,Undergraduate,Merit-based,No
+Suresh Sharma,30,Male,Hyderabad,General,Yes,0.0,Employee,Mixed,Not Sure
+Karan Kumari,21,Male,Mumbai,ST,No,7.5,Postgraduate,Mixed,Not Sure
+Priyanka Tiwari,55,Male,Pune,General,Yes,0.0,Postgraduate,Merit-based,Not Sure
+Rashmi Mishra,30,Other,Chennai,General,No,0.0,Employee,Reservation,Not Sure
+Priya Bose,30,Other,Jaipur,SC,Yes,15.0,Employee,Reservation,Not Sure
+Anjali Bose,43,Male,Pune,OBC,No,27.0,Postgraduate,Mixed,Yes
+Manish Joshi,21,Male,Kolkata,General,Not Sure,0.0,Undergraduate,Mixed,Yes
+Rahul Rao,21,Other,Kolkata,OBC,Yes,27.0,Undergraduate,Reservation,Yes
+Vikram Mishra,55,Female,Pune,SC,Yes,15.0,Employee,Reservation,Not Sure
+Neha Choudhary,30,Other,Hyderabad,OBC,Not Sure,27.0,Employee,Mixed,No
+Rahul Das,21,Female,Delhi,OBC,No,27.0,Employee,Reservation,Yes
+Priyanka Sharma,17,Other,Mumbai,OBC,No,27.0,Employee,Reservation,Not Sure
+Sangeeta Sharma,21,Female,Chennai,OBC,No,27.0,Postgraduate,Reservation,No
+Aman Shah,30,Other,Lucknow,OBC,Not Sure,27.0,Employee,Reservation,Yes
+Vikram Bose,55,Male,Kolkata,General,No,0.0,Undergraduate,Mixed,Yes
+Suresh Yadav,17,Female,Mumbai,General,Not Sure,0.0,Undergraduate,Mixed,Yes
+Neha Reddy,17,Other,Ahmedabad,SC,Yes,15.0,Undergraduate,Merit-based,Yes
+Neelam Kumar,30,Female,Kolkata,OBC,No,27.0,Postgraduate,Reservation,Yes
+Priya Reddy,55,Female,Bangalore,General,Yes,0.0,Undergraduate,Reservation,No
+Aakash Joshi,43,Other,Mumbai,OBC,Yes,27.0,Postgraduate,Merit-based,Not Sure
+Rashmi Shah,43,Other,Kolkata,OBC,Yes,27.0,Employee,Mixed,Yes
+Vikram Kumari,55,Female,Delhi,General,Not Sure,0.0,Postgraduate,Reservation,No
+Ajay Sharma,30,Male,Mumbai,OBC,Yes,27.0,Undergraduate,Merit-based,Not Sure
+Neelam Mehta,21,Male,Bangalore,ST,Yes,7.5,Postgraduate,Merit-based,Yes
+Ritu Nair,17,Male,Hyderabad,EWS,Yes,10.0,Employee,Merit-based,Yes
+Vikram Kumari,43,Female,Hyderabad,SC,Yes,15.0,Postgraduate,Merit-based,No
+Ritu Verma,21,Male,Hyderabad,General,Yes,0.0,Undergraduate,Mixed,No
+Anjali Gupta,30,Female,Delhi,General,No,0.0,Postgraduate,Merit-based,Not Sure
+Divya Choudhary,21,Other,Delhi,General,Not Sure,0.0,Undergraduate,Merit-based,Not Sure
+Manish Reddy,55,Male,Lucknow,OBC,No,27.0,Postgraduate,Mixed,Not Sure
+Ajay Sharma,43,Male,Bangalore,General,Yes,0.0,Undergraduate,Reservation,Not Sure
+Rahul Verma,43,Female,Lucknow,General,No,0.0,Undergraduate,Merit-based,Not Sure
+Vikram Kumar,30,Male,Hyderabad,General,No,0.0,Undergraduate,Merit-based,Not Sure
+Aman Yadav,21,Other,Pune,EWS,No,10.0,Undergraduate,Mixed,No
+Manish Kapoor,17,Male,Pune,General,No,0.0,Undergraduate,Reservation,Yes
+Priyanka Patel,17,Female,Ahmedabad,General,Yes,0.0,Undergraduate,Merit-based,No
+Rashmi Sharma,30,Other,Bangalore,General,Not Sure,0.0,Undergraduate,Merit-based,Yes
+Priyanka Kumar,55,Other,Mumbai,General,No,0.0,Employee,Merit-based,Yes
+Neha Kumar,17,Female,Ahmedabad,OBC,Not Sure,27.0,Employee,Mixed,No
+Suresh Kapoor,21,Other,Kolkata,OBC,Yes,27.0,Employee,Merit-based,Not Sure
+Ravi Nair,30,Female,Mumbai,OBC,Yes,27.0,Undergraduate,Mixed,Yes
+Rahul Sharma,17,Male,Mumbai,SC,Yes,15.0,Undergraduate,Mixed,Not Sure
+Priyanka Choudhary,43,Male,Hyderabad,ST,No,7.5,Undergraduate,Reservation,Yes
+Neha Reddy,17,Male,Mumbai,OBC,No,27.0,Undergraduate,Merit-based,Not Sure
+Ajay Choudhary,17,Male,Mumbai,EWS,Yes,10.0,Undergraduate,Merit-based,No
+Ritu Shah,17,Male,Pune,General,Not Sure,0.0,Postgraduate,Reservation,No
+Anjali Shah,21,Other,Mumbai,OBC,No,27.0,Employee,Reservation,Yes
+Karan Choudhary,30,Female,Ahmedabad,OBC,Not Sure,27.0,Postgraduate,Mixed,Not Sure
+Neha Kapoor,17,Male,Kolkata,General,Not Sure,0.0,Employee,Mixed,Not Sure
+Aakash Kapoor,17,Male,Hyderabad,General,Not Sure,0.0,Undergraduate,Reservation,Yes
+Anjali Reddy,21,Other,Hyderabad,OBC,Not Sure,27.0,Employee,Merit-based,Not Sure
+Rahul Sharma,21,Other,Lucknow,General,Yes,0.0,Undergraduate,Reservation,Not Sure
+Neha Tiwari,21,Female,Ahmedabad,SC,No,15.0,Postgraduate,Merit-based,No
+Neha Tiwari,21,Male,Hyderabad,EWS,Yes,10.0,Postgraduate,Mixed,Not Sure
+Rashmi Kumar,55,Other,Bangalore,OBC,Not Sure,27.0,Postgraduate,Merit-based,Yes
+Suresh Kapoor,21,Other,Delhi,General,No,0.0,Postgraduate,Merit-based,No
+Ravi Tiwari,55,Male,Hyderabad,OBC,Not Sure,27.0,Undergraduate,Merit-based,No
+Divya Rao,30,Other,Kolkata,General,Not Sure,0.0,Undergraduate,Reservation,Not Sure
+Neelam Singh,55,Female,Delhi,General,No,0.0,Postgraduate,Mixed,Not Sure
+Divya Bose,30,Other,Kolkata,SC,Not Sure,15.0,Employee,Merit-based,Yes
+Manish Patel,30,Other,Ahmedabad,General,Not Sure,0.0,Employee,Merit-based,No
+Rashmi Mishra,43,Male,Delhi,SC,Not Sure,15.0,Employee,Mixed,Yes
+Aakash Reddy,17,Other,Chennai,OBC,Not Sure,27.0,Undergraduate,Merit-based,Yes
+Priya Singh,30,Male,Kolkata,OBC,Not Sure,27.0,Employee,Merit-based,No
+Anjali Kumar,17,Other,Lucknow,OBC,Yes,27.0,Postgraduate,Merit-based,Not Sure
+Neelam Verma,17,Other,Lucknow,OBC,No,27.0,Undergraduate,Merit-based,Not Sure
+Ajay Singh,21,Other,Kolkata,EWS,No,10.0,Postgraduate,Reservation,Not Sure
+Suresh Gupta,17,Other,Pune,General,No,0.0,Undergraduate,Merit-based,No
+Rashmi Yadav,55,Female,Lucknow,General,Not Sure,0.0,Postgraduate,Merit-based,Not Sure
+Seema Mehta,55,Male,Ahmedabad,General,Not Sure,0.0,Undergraduate,Reservation,Not Sure
+Sangeeta Reddy,43,Other,Chennai,General,No,0.0,Employee,Merit-based,Yes
+Ajay Das,30,Female,Kolkata,General,No,0.0,Undergraduate,Mixed,Yes
+Rashmi Choudhary,55,Female,Jaipur,OBC,Not Sure,27.0,Undergraduate,Reservation,Not Sure
+Karan Kumar,17,Male,Pune,SC,No,15.0,Undergraduate,Merit-based,No
+Manish Reddy,30,Male,Ahmedabad,EWS,Not Sure,10.0,Undergraduate,Mixed,Yes
+Manish Yadav,43,Other,Mumbai,ST,Not Sure,7.5,Postgraduate,Reservation,Yes
+Vikram Tiwari,21,Male,Kolkata,General,Not Sure,0.0,Postgraduate,Mixed,Not Sure
+Suresh Choudhary,43,Male,Pune,OBC,Not Sure,27.0,Employee,Reservation,Not Sure
+Neha Reddy,55,Male,Pune,OBC,No,27.0,Postgraduate,Reservation,No
+Manish Singh,21,Female,Pune,General,Not Sure,0.0,Postgraduate,Mixed,Yes
+Rashmi Patel,43,Female,Bangalore,EWS,No,10.0,Undergraduate,Mixed,No
+Manish Joshi,30,Female,Pune,General,No,0.0,Undergraduate,Mixed,Yes
+Neelam Reddy,43,Male,Kolkata,OBC,Not Sure,27.0,Employee,Merit-based,Not Sure
+Manish Das,55,Female,Pune,SC,Yes,15.0,Employee,Reservation,Yes
+Manish Kumari,55,Female,Lucknow,OBC,No,27.0,Employee,Reservation,Not Sure
+Divya Das,21,Female,Chennai,ST,No,7.5,Employee,Reservation,No
+Rashmi Mishra,55,Male,Ahmedabad,SC,Yes,15.0,Postgraduate,Mixed,Yes
+Priya Verma,17,Female,Delhi,General,Not Sure,0.0,Postgraduate,Reservation,Not Sure
+Ravi Mishra,21,Female,Kolkata,General,Not Sure,0.0,Undergraduate,Merit-based,No
+Aakash Patel,17,Other,Bangalore,General,Yes,0.0,Undergraduate,Mixed,Not Sure
+Anjali Rao,43,Male,Lucknow,OBC,Yes,27.0,Employee,Merit-based,No
+Aman Yadav,21,Other,Ahmedabad,EWS,Yes,10.0,Undergraduate,Merit-based,Not Sure
+Priya Singh,17,Other,Mumbai,OBC,No,27.0,Employee,Merit-based,Yes
+Ravi Shah,55,Other,Bangalore,General,Not Sure,0.0,Employee,Reservation,Not Sure
+Ritu Tiwari,21,Female,Ahmedabad,ST,Yes,7.5,Employee,Merit-based,Not Sure
+Sangeeta Kumar,55,Male,Hyderabad,General,No,0.0,Postgraduate,Mixed,Yes
+Anjali Verma,17,Female,Ahmedabad,General,No,0.0,Undergraduate,Mixed,No
+Divya Joshi,17,Female,Jaipur,OBC,Not Sure,27.0,Postgraduate,Mixed,Not Sure
+Rashmi Mehta,21,Female,Hyderabad,OBC,Yes,27.0,Postgraduate,Merit-based,Yes
+Aakash Tiwari,21,Male,Pune,EWS,Not Sure,10.0,Undergraduate,Reservation,Yes
+Ritu Kapoor,17,Male,Hyderabad,General,Not Sure,0.0,Postgraduate,Reservation,No
+Rashmi Bose,55,Female,Mumbai,General,Yes,0.0,Employee,Mixed,No
+Vikram Gupta,21,Female,Lucknow,General,Yes,0.0,Undergraduate,Merit-based,Not Sure
+Aman Kapoor,17,Female,Ahmedabad,General,Yes,0.0,Employee,Merit-based,Yes
+Ajay Shah,17,Male,Bangalore,General,Yes,0.0,Undergraduate,Reservation,Not Sure
+Seema Verma,17,Other,Lucknow,OBC,Not Sure,27.0,Employee,Mixed,Not Sure
+Seema Choudhary,43,Male,Jaipur,General,Yes,0.0,Undergraduate,Merit-based,No
+Karan Gupta,30,Male,Pune,OBC,Not Sure,27.0,Undergraduate,Reservation,Not Sure
+Manish Gupta,21,Male,Jaipur,General,No,0.0,Postgraduate,Merit-based,Not Sure
+Rahul Sharma,55,Female,Delhi,General,Not Sure,0.0,Postgraduate,Reservation,Not Sure
+Ritu Singh,17,Other,Kolkata,SC,Not Sure,15.0,Employee,Merit-based,No
+Anjali Sharma,55,Female,Jaipur,OBC,Not Sure,27.0,Employee,Reservation,Yes
+Aman Joshi,17,Other,Delhi,General,Yes,0.0,Undergraduate,Merit-based,Not Sure
+Neha Das,55,Female,Chennai,OBC,Not Sure,27.0,Undergraduate,Merit-based,No
+Rashmi Kumar,17,Female,Kolkata,General,Not Sure,0.0,Undergraduate,Merit-based,No
+Sangeeta Gupta,55,Other,Ahmedabad,SC,Not Sure,15.0,Undergraduate,Merit-based,No
+Aman Gupta,21,Other,Bangalore,General,No,0.0,Employee,Reservation,Not Sure
+Ajay Joshi,21,Other,Delhi,OBC,No,27.0,Postgraduate,Reservation,No
+Divya Mishra,43,Male,Delhi,General,No,0.0,Undergraduate,Reservation,No
+Priyanka Tiwari,21,Female,Lucknow,ST,Not Sure,7.5,Undergraduate,Reservation,No
+Sunil Bose,30,Female,Pune,OBC,No,27.0,Postgraduate,Mixed,Not Sure
+Priya Rao,21,Male,Chennai,General,No,0.0,Undergraduate,Mixed,Yes
+Sangeeta Mehta,30,Other,Delhi,General,Not Sure,0.0,Employee,Merit-based,No
+Anjali Yadav,17,Female,Kolkata,General,No,0.0,Employee,Merit-based,Yes
+Suresh Shah,17,Other,Mumbai,EWS,Not Sure,10.0,Undergraduate,Merit-based,Not Sure
+Anjali Das,55,Male,Hyderabad,OBC,Yes,27.0,Undergraduate,Mixed,Not Sure
+Priyanka Gupta,30,Female,Hyderabad,EWS,Not Sure,10.0,Undergraduate,Reservation,Not Sure
+Ravi Singh,43,Male,Jaipur,ST,Not Sure,7.5,Employee,Merit-based,Not Sure
+Sunil Choudhary,17,Other,Kolkata,General,Yes,0.0,Employee,Reservation,No
+Neelam Kumar,30,Male,Mumbai,General,Yes,0.0,Postgraduate,Merit-based,Yes
+Neelam Rao,21,Female,Bangalore,General,No,0.0,Employee,Merit-based,Not Sure
+Anjali Kumar,30,Other,Chennai,General,Yes,0.0,Undergraduate,Mixed,Yes
+Ravi Reddy,43,Other,Chennai,General,Yes,0.0,Undergraduate,Reservation,Not Sure
+Rashmi Mishra,30,Male,Mumbai,General,Yes,0.0,Employee,Mixed,Yes
+Rahul Das,21,Female,Pune,OBC,Not Sure,27.0,Undergraduate,Reservation,Yes
+Divya Gupta,55,Other,Delhi,OBC,Yes,27.0,Postgraduate,Mixed,Yes
+Priyanka Gupta,17,Male,Lucknow,General,Not Sure,0.0,Employee,Mixed,Not Sure
+Aman Nair,55,Other,Chennai,General,Not Sure,0.0,Undergraduate,Reservation,Yes
+Ritu Bose,17,Female,Kolkata,General,Yes,0.0,Employee,Merit-based,Not Sure
+Suresh Shah,55,Male,Bangalore,General,Not Sure,0.0,Employee,Reservation,No
+Manish Das,30,Female,Lucknow,General,Not Sure,0.0,Employee,Mixed,Yes
+Sunil Yadav,43,Other,Mumbai,ST,No,7.5,Employee,Merit-based,No
+Suresh Sharma,17,Female,Jaipur,General,No,0.0,Undergraduate,Mixed,Yes
+Anjali Reddy,43,Female,Delhi,OBC,No,27.0,Postgraduate,Merit-based,Not Sure
+Ravi Kumari,30,Male,Delhi,General,Yes,0.0,Employee,Merit-based,No
+Aakash Reddy,21,Female,Hyderabad,General,Not Sure,0.0,Employee,Merit-based,No
+Karan Yadav,30,Other,Delhi,OBC,Yes,27.0,Postgraduate,Mixed,No
+Rashmi Choudhary,17,Other,Lucknow,General,Yes,0.0,Postgraduate,Mixed,No
+Manish Gupta,17,Other,Pune,SC,Not Sure,15.0,Postgraduate,Merit-based,Yes
+Priya Kumar,43,Other,Kolkata,OBC,Yes,27.0,Undergraduate,Merit-based,Yes
+Rashmi Gupta,43,Female,Jaipur,OBC,No,27.0,Postgraduate,Merit-based,Yes
+Sunil Kapoor,43,Male,Hyderabad,General,Not Sure,0.0,Postgraduate,Merit-based,No
+Priya Rao,17,Male,Chennai,General,Yes,0.0,Undergraduate,Merit-based,Yes
+Neha Shah,17,Other,Kolkata,EWS,Yes,10.0,Employee,Mixed,Yes
+Neelam Kumar,30,Other,Mumbai,OBC,Not Sure,27.0,Postgraduate,Merit-based,Yes
+Ajay Patel,30,Other,Kolkata,OBC,No,27.0,Postgraduate,Reservation,No
+Anjali Gupta,17,Female,Jaipur,General,Yes,0.0,Employee,Merit-based,Not Sure
+Manish Shah,30,Other,Lucknow,General,Yes,0.0,Undergraduate,Mixed,Yes
+Aakash Rao,30,Female,Hyderabad,General,Yes,0.0,Undergraduate,Reservation,No
+Priya Nair,55,Other,Mumbai,General,Not Sure,0.0,Undergraduate,Merit-based,Not Sure
+Rashmi Bose,30,Male,Mumbai,EWS,Not Sure,10.0,Undergraduate,Merit-based,Not Sure
+Ritu Yadav,43,Female,Delhi,General,No,0.0,Postgraduate,Mixed,Yes
+Suresh Kumar,21,Male,Ahmedabad,General,Not Sure,0.0,Employee,Mixed,Not Sure
+Sunil Gupta,30,Other,Kolkata,OBC,No,27.0,Employee,Mixed,Not Sure
+Neha Mehta,30,Male,Chennai,General,Yes,0.0,Postgraduate,Reservation,Not Sure
+Ravi Joshi,17,Female,Chennai,OBC,Not Sure,27.0,Postgraduate,Reservation,No
+Anjali Bose,30,Male,Lucknow,General,Not Sure,0.0,Undergraduate,Reservation,Not Sure
+Priyanka Shah,43,Male,Kolkata,EWS,Not Sure,10.0,Employee,Merit-based,Not Sure
+Aakash Kumari,55,Male,Ahmedabad,General,Yes,0.0,Employee,Merit-based,Yes
+Vikram Bose,30,Male,Lucknow,General,Yes,0.0,Employee,Mixed,No
+Aakash Choudhary,17,Other,Jaipur,General,Not Sure,0.0,Postgraduate,Merit-based,No
+Neha Shah,21,Male,Pune,General,No,0.0,Undergraduate,Mixed,Yes
+Aman Mishra,17,Female,Delhi,OBC,No,27.0,Undergraduate,Merit-based,Not Sure
+Aman Verma,55,Female,Lucknow,EWS,Not Sure,10.0,Undergraduate,Mixed,Yes
+Ajay Sharma,21,Other,Ahmedabad,General,Not Sure,0.0,Postgraduate,Reservation,Not Sure
+Priya Patel,21,Male,Mumbai,General,Yes,0.0,Postgraduate,Reservation,Not Sure
+Divya Patel,30,Other,Ahmedabad,General,Not Sure,0.0,Postgraduate,Reservation,No
+Aman Mishra,43,Male,Chennai,OBC,Not Sure,27.0,Postgraduate,Merit-based,No
+Seema Patel,55,Female,Lucknow,General,Yes,0.0,Postgraduate,Mixed,Yes
+Vikram Nair,30,Female,Bangalore,OBC,Yes,27.0,Postgraduate,Mixed,No
+Divya Kumar,30,Female,Lucknow,General,No,0.0,Employee,Merit-based,No
+Ravi Kumar,17,Male,Lucknow,General,Yes,0.0,Undergraduate,Merit-based,No
+Ravi Tiwari,30,Other,Ahmedabad,General,Yes,0.0,Postgraduate,Merit-based,Not Sure
+Ravi Rao,55,Other,Chennai,General,Not Sure,0.0,Employee,Merit-based,No
+Suresh Sharma,30,Male,Mumbai,EWS,Yes,10.0,Employee,Mixed,Yes
+Rahul Nair,55,Male,Lucknow,OBC,Yes,27.0,Postgraduate,Reservation,Not Sure
+Priya Singh,21,Female,Jaipur,OBC,No,27.0,Postgraduate,Reservation,Not Sure
+Rashmi Yadav,43,Other,Mumbai,EWS,Not Sure,10.0,Employee,Mixed,No
+Neelam Joshi,30,Other,Delhi,ST,No,7.5,Employee,Mixed,Yes
+Priyanka Patel,17,Other,Chennai,SC,Not Sure,15.0,Undergraduate,Merit-based,Not Sure
+Aakash Nair,55,Female,Chennai,ST,Yes,7.5,Undergraduate,Mixed,Not Sure
+Priyanka Bose,30,Other,Pune,General,No,0.0,Employee,Reservation,No
+Divya Shah,21,Male,Ahmedabad,ST,Not Sure,7.5,Employee,Merit-based,Yes
+Ritu Shah,43,Male,Delhi,General,No,0.0,Postgraduate,Reservation,Yes
+Seema Sharma,21,Other,Kolkata,OBC,Yes,27.0,Employee,Mixed,No
+Sunil Rao,30,Female,Kolkata,OBC,No,27.0,Employee,Merit-based,Yes
+Rahul Rao,30,Male,Jaipur,General,Yes,0.0,Postgraduate,Mixed,Not Sure
+Aman Rao,55,Other,Pune,General,Yes,0.0,Postgraduate,Reservation,No
+Aman Joshi,21,Male,Delhi,General,Not Sure,0.0,Undergraduate,Merit-based,Yes
+Manish Sharma,17,Male,Jaipur,OBC,No,27.0,Postgraduate,Reservation,Not Sure
+Anjali Rao,30,Other,Lucknow,General,No,0.0,Undergraduate,Reservation,Not Sure
+Neha Rao,30,Other,Mumbai,OBC,No,27.0,Employee,Reservation,No
+Aakash Yadav,55,Male,Delhi,ST,Yes,7.5,Postgraduate,Merit-based,Not Sure
+Rahul Choudhary,17,Other,Chennai,OBC,Not Sure,27.0,Employee,Merit-based,No
+Priyanka Rao,21,Female,Chennai,OBC,No,27.0,Undergraduate,Mixed,Not Sure
+Priyanka Rao,17,Female,Delhi,General,Not Sure,0.0,Postgraduate,Merit-based,Yes
+Sangeeta Singh,43,Female,Hyderabad,OBC,No,27.0,Undergraduate,Reservation,Not Sure
+Anjali Mishra,21,Female,Mumbai,General,No,0.0,Employee,Merit-based,Not Sure
+Manish Shah,17,Female,Jaipur,General,No,0.0,Undergraduate,Mixed,Yes
+Rashmi Verma,17,Male,Ahmedabad,General,No,0.0,Postgraduate,Reservation,Yes
+Anjali Singh,17,Male,Lucknow,EWS,No,10.0,Postgraduate,Mixed,Yes
+Ritu Sharma,17,Male,Lucknow,General,No,0.0,Undergraduate,Merit-based,Not Sure
+Karan Rao,30,Male,Ahmedabad,General,No,0.0,Undergraduate,Mixed,No
+Rashmi Singh,21,Other,Hyderabad,EWS,No,10.0,Employee,Reservation,Not Sure
+Divya Joshi,55,Male,Pune,OBC,Not Sure,27.0,Undergraduate,Reservation,Yes
+Seema Singh,30,Male,Jaipur,General,Not Sure,0.0,Employee,Reservation,Yes
+Neha Sharma,30,Male,Hyderabad,OBC,Yes,27.0,Undergraduate,Merit-based,Yes
+Ajay Singh,17,Other,Mumbai,OBC,Not Sure,27.0,Employee,Reservation,Yes
+Neelam Reddy,55,Male,Delhi,General,Yes,0.0,Undergraduate,Reservation,Not Sure
+Priya Kumar,55,Male,Mumbai,SC,Yes,15.0,Employee,Mixed,No
+Neelam Joshi,43,Male,Hyderabad,General,No,0.0,Undergraduate,Merit-based,No
+Sunil Nair,43,Female,Lucknow,SC,No,15.0,Postgraduate,Reservation,No
+Manish Shah,43,Other,Hyderabad,General,Not Sure,0.0,Undergraduate,Reservation,No
+Ajay Singh,43,Other,Hyderabad,General,Yes,0.0,Undergraduate,Reservation,No
+Rashmi Sharma,43,Male,Delhi,SC,No,15.0,Undergraduate,Merit-based,Not Sure
+Anjali Singh,55,Other,Mumbai,ST,Not Sure,7.5,Employee,Merit-based,No
+Anjali Joshi,21,Female,Chennai,OBC,Yes,27.0,Postgraduate,Mixed,Yes
+Ravi Shah,43,Male,Hyderabad,EWS,No,10.0,Employee,Mixed,Yes
+Anjali Yadav,55,Other,Hyderabad,OBC,Not Sure,27.0,Employee,Reservation,No
+Manish Yadav,30,Other,Hyderabad,General,No,0.0,Undergraduate,Merit-based,Not Sure
+Sangeeta Mehta,21,Male,Hyderabad,General,No,0.0,Postgraduate,Merit-based,No
+Ajay Choudhary,17,Male,Pune,General,No,0.0,Undergraduate,Mixed,No
+Ravi Das,30,Male,Ahmedabad,General,No,0.0,Undergraduate,Mixed,Not Sure
+Rashmi Verma,21,Female,Kolkata,SC,Not Sure,15.0,Undergraduate,Mixed,No
+Priya Joshi,43,Male,Jaipur,OBC,No,27.0,Postgraduate,Mixed,Not Sure
+Aakash Shah,43,Other,Ahmedabad,General,Yes,0.0,Undergraduate,Merit-based,Not Sure
+Suresh Kumar,17,Female,Lucknow,SC,Yes,15.0,Postgraduate,Merit-based,No
+Rashmi Shah,30,Female,Pune,EWS,No,10.0,Postgraduate,Mixed,Yes
+Rashmi Kumar,30,Female,Delhi,SC,Yes,15.0,Postgraduate,Merit-based,Not Sure
+Vikram Verma,21,Female,Mumbai,General,Not Sure,0.0,Employee,Mixed,No
+Ajay Rao,30,Female,Kolkata,General,No,0.0,Postgraduate,Mixed,Not Sure
+Ravi Joshi,43,Female,Delhi,ST,Yes,7.5,Postgraduate,Reservation,No
+Aman Singh,21,Male,Delhi,SC,No,15.0,Employee,Mixed,Not Sure
+Neelam Tiwari,55,Male,Chennai,General,Yes,0.0,Postgraduate,Reservation,No
+Sunil Gupta,21,Other,Lucknow,SC,Yes,15.0,Employee,Reservation,Yes
+Aakash Mishra,43,Female,Bangalore,General,Not Sure,0.0,Undergraduate,Merit-based,Yes
+Neha Choudhary,17,Female,Chennai,General,Yes,0.0,Postgraduate,Reservation,No
+Divya Kumari,55,Other,Jaipur,EWS,Not Sure,10.0,Employee,Merit-based,No
+Neha Patel,43,Male,Pune,General,Yes,0.0,Employee,Mixed,Not Sure
+Neelam Singh,30,Male,Pune,SC,No,15.0,Undergraduate,Merit-based,No
+Neha Shah,21,Other,Pune,EWS,No,10.0,Employee,Reservation,Not Sure
+Suresh Shah,55,Other,Chennai,ST,Not Sure,7.5,Employee,Reservation,No
+Rashmi Patel,55,Male,Ahmedabad,OBC,Not Sure,27.0,Employee,Merit-based,Yes
+Aakash Patel,55,Male,Lucknow,General,Yes,0.0,Employee,Merit-based,Not Sure
+Ritu Choudhary,17,Female,Kolkata,OBC,Not Sure,27.0,Postgraduate,Merit-based,Not Sure
+Sunil Bose,43,Male,Jaipur,General,No,0.0,Postgraduate,Reservation,Not Sure
+Neelam Mishra,17,Male,Chennai,OBC,Yes,27.0,Undergraduate,Mixed,Not Sure
+Divya Rao,30,Male,Pune,General,Yes,0.0,Postgraduate,Mixed,Yes
+Sangeeta Rao,43,Female,Lucknow,General,Not Sure,0.0,Undergraduate,Reservation,Not Sure
+Priyanka Choudhary,55,Male,Pune,OBC,No,27.0,Undergraduate,Merit-based,Not Sure
+Priyanka Mehta,43,Female,Mumbai,General,Yes,0.0,Undergraduate,Reservation,Not Sure
+Rashmi Rao,30,Female,Kolkata,General,Yes,0.0,Postgraduate,Reservation,Not Sure
+Manish Singh,55,Other,Lucknow,OBC,No,27.0,Undergraduate,Reservation,Yes
+Anjali Kumar,30,Female,Hyderabad,ST,Not Sure,7.5,Postgraduate,Merit-based,Not Sure
+Aman Reddy,17,Male,Pune,OBC,Not Sure,27.0,Employee,Merit-based,No
+Manish Verma,21,Female,Bangalore,General,Yes,0.0,Employee,Reservation,Not Sure
+Ritu Singh,55,Other,Kolkata,General,No,0.0,Undergraduate,Merit-based,Not Sure
+Rashmi Mishra,55,Male,Kolkata,EWS,No,10.0,Postgraduate,Merit-based,Not Sure
+Sangeeta Bose,21,Male,Pune,OBC,Yes,27.0,Postgraduate,Mixed,Yes
+Sangeeta Yadav,21,Female,Hyderabad,EWS,Yes,10.0,Employee,Merit-based,Not Sure
+Neha Tiwari,55,Male,Delhi,General,Yes,0.0,Postgraduate,Mixed,Not Sure
+Ajay Kapoor,17,Male,Mumbai,ST,No,7.5,Undergraduate,Merit-based,No
+Ajay Tiwari,17,Female,Delhi,OBC,Yes,27.0,Postgraduate,Mixed,No
+Rahul Kumar,43,Other,Kolkata,General,No,0.0,Employee,Reservation,Yes
+Karan Sharma,21,Male,Kolkata,General,No,0.0,Postgraduate,Merit-based,No
+Seema Kapoor,55,Female,Lucknow,SC,Not Sure,15.0,Employee,Merit-based,Not Sure
+Divya Kumar,55,Female,Pune,General,Yes,0.0,Postgraduate,Mixed,Not Sure
+Karan Nair,43,Other,Kolkata,General,Yes,0.0,Undergraduate,Reservation,Not Sure
+Ravi Yadav,43,Other,Lucknow,General,No,0.0,Employee,Reservation,Yes
+Rashmi Joshi,17,Other,Hyderabad,General,Yes,0.0,Employee,Mixed,Not Sure
+Ravi Bose,21,Other,Kolkata,General,Yes,0.0,Postgraduate,Mixed,Yes
+Aman Kumari,30,Male,Bangalore,General,No,0.0,Employee,Reservation,Yes
+Aman Das,21,Female,Pune,OBC,No,27.0,Postgraduate,Merit-based,No
+Sangeeta Singh,43,Male,Mumbai,SC,No,15.0,Undergraduate,Mixed,No
+Neha Nair,17,Male,Pune,EWS,Not Sure,10.0,Postgraduate,Merit-based,No
+Manish Yadav,43,Male,Hyderabad,General,No,0.0,Undergraduate,Mixed,Not Sure
+Vikram Gupta,30,Female,Delhi,General,Yes,0.0,Employee,Mixed,Yes
+Suresh Nair,21,Male,Delhi,OBC,Not Sure,27.0,Undergraduate,Mixed,Yes
+Manish Yadav,30,Male,Chennai,General,Not Sure,0.0,Undergraduate,Mixed,Yes
+Karan Shah,43,Female,Ahmedabad,General,No,0.0,Employee,Mixed,Yes
+Karan Tiwari,43,Male,Pune,General,Yes,0.0,Postgraduate,Reservation,No
+Manish Shah,30,Other,Delhi,SC,Yes,15.0,Employee,Mixed,Not Sure
+Ajay Gupta,30,Female,Hyderabad,General,Yes,0.0,Employee,Mixed,Not Sure
+Divya Singh,17,Female,Hyderabad,EWS,Yes,10.0,Employee,Merit-based,No
+Neelam Kapoor,43,Female,Lucknow,OBC,No,27.0,Undergraduate,Mixed,Yes
+Priya Kumar,43,Male,Delhi,SC,Not Sure,15.0,Undergraduate,Merit-based,Not Sure
+Ravi Gupta,17,Female,Hyderabad,ST,Yes,7.5,Postgraduate,Reservation,Not Sure
+Priyanka Tiwari,43,Female,Mumbai,General,Yes,0.0,Undergraduate,Reservation,Not Sure
+Seema Nair,43,Female,Chennai,OBC,Yes,27.0,Employee,Merit-based,Not Sure
+Manish Patel,55,Other,Chennai,SC,Not Sure,15.0,Undergraduate,Reservation,No
+Aman Kumari,55,Female,Bangalore,OBC,Yes,27.0,Employee,Reservation,Not Sure
+Neelam Sharma,43,Male,Hyderabad,General,Not Sure,0.0,Postgraduate,Reservation,Not Sure
+Aakash Mishra,21,Female,Jaipur,General,Yes,0.0,Undergraduate,Reservation,No
+Seema Kumari,21,Male,Mumbai,SC,Not Sure,15.0,Undergraduate,Merit-based,Not Sure
+Ajay Tiwari,30,Female,Delhi,General,Yes,0.0,Undergraduate,Merit-based,Not Sure
+Rahul Reddy,43,Other,Kolkata,General,Yes,0.0,Employee,Mixed,No
+Divya Patel,55,Other,Hyderabad,OBC,Not Sure,27.0,Postgraduate,Reservation,Not Sure
+Ritu Rao,30,Male,Bangalore,SC,Not Sure,15.0,Postgraduate,Reservation,No
+Divya Mishra,17,Female,Lucknow,OBC,Yes,27.0,Employee,Merit-based,No
+Vikram Das,21,Female,Ahmedabad,General,Yes,0.0,Undergraduate,Mixed,No
+Sangeeta Mehta,17,Other,Mumbai,OBC,Yes,27.0,Postgraduate,Merit-based,Yes
+Anjali Singh,30,Female,Lucknow,EWS,Yes,10.0,Employee,Mixed,Yes
+Anjali Mishra,55,Male,Hyderabad,General,No,0.0,Undergraduate,Reservation,No
+Ravi Choudhary,17,Male,Mumbai,OBC,No,27.0,Postgraduate,Merit-based,No
+Priya Mishra,30,Other,Kolkata,SC,Not Sure,15.0,Postgraduate,Merit-based,Yes
+Priya Yadav,55,Female,Kolkata,OBC,Yes,27.0,Undergraduate,Merit-based,Not Sure
+Priyanka Mishra,21,Male,Mumbai,General,Not Sure,0.0,Undergraduate,Merit-based,No
+Aman Sharma,55,Male,Chennai,General,Yes,0.0,Undergraduate,Reservation,Yes
+Anjali Joshi,21,Other,Ahmedabad,General,Yes,0.0,Postgraduate,Reservation,Yes
+Priyanka Kumar,55,Male,Jaipur,OBC,No,27.0,Employee,Reservation,No
+Priyanka Shah,30,Female,Bangalore,OBC,No,27.0,Undergraduate,Mixed,Yes
+Priya Kapoor,30,Other,Chennai,OBC,Not Sure,27.0,Postgraduate,Reservation,Yes
+Priyanka Gupta,30,Male,Lucknow,OBC,Yes,27.0,Employee,Mixed,Not Sure
+Seema Kapoor,30,Male,Jaipur,EWS,No,10.0,Undergraduate,Mixed,No
+Sangeeta Reddy,30,Other,Lucknow,EWS,Not Sure,10.0,Employee,Merit-based,No
+Manish Tiwari,55,Female,Chennai,OBC,No,27.0,Postgraduate,Mixed,Yes
+Aman Sharma,43,Other,Jaipur,OBC,Not Sure,27.0,Postgraduate,Reservation,Yes
+Anjali Kumari,30,Female,Chennai,General,Yes,0.0,Employee,Reservation,Not Sure
+Neha Shah,30,Male,Kolkata,General,Not Sure,0.0,Employee,Merit-based,Not Sure
+Rahul Nair,55,Other,Lucknow,ST,Yes,7.5,Employee,Mixed,No
+Sangeeta Mehta,17,Male,Bangalore,OBC,Not Sure,27.0,Undergraduate,Reservation,Yes
+Rahul Choudhary,55,Female,Lucknow,General,Yes,0.0,Undergraduate,Merit-based,Yes
+Rashmi Tiwari,55,Female,Bangalore,General,No,0.0,Employee,Reservation,Not Sure
+Divya Rao,21,Male,Jaipur,General,No,0.0,Postgraduate,Merit-based,No
+Priya Bose,17,Male,Bangalore,EWS,Not Sure,10.0,Undergraduate,Merit-based,Yes
+Suresh Shah,43,Other,Jaipur,ST,No,7.5,Postgraduate,Reservation,Not Sure
+Aakash Sharma,21,Other,Ahmedabad,General,Yes,0.0,Undergraduate,Mixed,No
+Anjali Yadav,30,Female,Pune,SC,Yes,15.0,Undergraduate,Mixed,Not Sure
+Seema Singh,21,Female,Lucknow,General,No,0.0,Postgraduate,Merit-based,Yes
+Divya Gupta,43,Other,Lucknow,ST,Yes,7.5,Postgraduate,Merit-based,Yes
+Priya Singh,17,Male,Delhi,OBC,No,27.0,Employee,Mixed,Yes
+Neelam Joshi,17,Other,Mumbai,General,Not Sure,0.0,Postgraduate,Mixed,Not Sure
+Priyanka Das,21,Male,Ahmedabad,OBC,No,27.0,Employee,Mixed,Yes
+Ravi Nair,43,Male,Kolkata,General,No,0.0,Undergraduate,Mixed,Yes
+Rashmi Kumari,43,Other,Pune,General,Not Sure,0.0,Postgraduate,Merit-based,Not Sure
+Rashmi Nair,43,Female,Lucknow,General,Yes,0.0,Undergraduate,Merit-based,Yes
+Seema Das,43,Other,Mumbai,OBC,Not Sure,27.0,Undergraduate,Merit-based,No
+Rashmi Mehta,30,Other,Lucknow,OBC,Yes,27.0,Postgraduate,Merit-based,No
+Sangeeta Shah,17,Male,Mumbai,OBC,Yes,27.0,Employee,Merit-based,Yes
+Suresh Sharma,55,Female,Hyderabad,OBC,Not Sure,27.0,Undergraduate,Mixed,Yes
+Karan Verma,17,Female,Chennai,SC,No,15.0,Employee,Reservation,Not Sure
+Ravi Mishra,21,Other,Lucknow,OBC,Not Sure,27.0,Employee,Merit-based,Yes
+Divya Mehta,43,Male,Bangalore,OBC,Not Sure,27.0,Employee,Reservation,Not Sure
+Rashmi Rao,21,Female,Ahmedabad,SC,Not Sure,15.0,Employee,Reservation,No
+Rahul Rao,55,Male,Jaipur,EWS,Not Sure,10.0,Postgraduate,Merit-based,Not Sure
+Neelam Joshi,43,Other,Lucknow,General,Not Sure,0.0,Employee,Reservation,Not Sure
+Neelam Kumar,21,Male,Bangalore,OBC,Yes,27.0,Employee,Mixed,Not Sure
+Anjali Gupta,43,Other,Mumbai,ST,No,7.5,Undergraduate,Mixed,No
+Ritu Verma,55,Female,Delhi,General,Yes,0.0,Postgraduate,Merit-based,Not Sure
+Ravi Tiwari,17,Other,Hyderabad,General,No,0.0,Employee,Merit-based,Not Sure
+Vikram Rao,43,Other,Jaipur,ST,Not Sure,7.5,Employee,Mixed,Yes
+Ajay Mishra,43,Male,Ahmedabad,OBC,Yes,27.0,Undergraduate,Merit-based,No
+Ritu Joshi,43,Female,Kolkata,General,Yes,0.0,Employee,Reservation,Not Sure
+Aakash Rao,43,Male,Kolkata,General,No,0.0,Undergraduate,Merit-based,Not Sure
+Rahul Bose,55,Male,Kolkata,SC,Not Sure,15.0,Undergraduate,Merit-based,Yes
+Manish Kumari,30,Other,Jaipur,General,No,0.0,Postgraduate,Reservation,Not Sure
+Neelam Singh,43,Female,Bangalore,ST,Yes,7.5,Postgraduate,Reservation,Not Sure
+Divya Shah,55,Male,Kolkata,SC,No,15.0,Postgraduate,Mixed,Yes
+Sangeeta Mishra,55,Other,Mumbai,OBC,Not Sure,27.0,Employee,Merit-based,Not Sure
+Anjali Singh,21,Female,Kolkata,SC,No,15.0,Employee,Reservation,Yes
+Rashmi Sharma,43,Female,Lucknow,General,No,0.0,Postgraduate,Merit-based,Not Sure
+Sangeeta Shah,17,Other,Ahmedabad,SC,Not Sure,15.0,Postgraduate,Reservation,Yes
+Neha Patel,43,Male,Lucknow,EWS,Not Sure,10.0,Postgraduate,Mixed,Not Sure
+Anjali Tiwari,30,Other,Hyderabad,OBC,No,27.0,Employee,Reservation,Not Sure
+Rashmi Kapoor,55,Female,Pune,OBC,Not Sure,27.0,Undergraduate,Reservation,Yes
+Vikram Mehta,21,Female,Ahmedabad,General,Yes,0.0,Undergraduate,Reservation,No
+Aman Verma,17,Male,Ahmedabad,OBC,Not Sure,27.0,Postgraduate,Mixed,No
+Rahul Choudhary,17,Other,Lucknow,General,No,0.0,Undergraduate,Merit-based,Not Sure
+Suresh Verma,21,Male,Chennai,OBC,No,27.0,Undergraduate,Reservation,No
+Priyanka Tiwari,17,Male,Kolkata,OBC,No,27.0,Employee,Merit-based,Not Sure
+Vikram Kapoor,43,Male,Chennai,EWS,No,10.0,Employee,Mixed,Yes
+Priya Sharma,55,Other,Lucknow,OBC,Not Sure,27.0,Employee,Mixed,Not Sure
+Karan Verma,43,Other,Mumbai,General,Yes,0.0,Employee,Reservation,No
